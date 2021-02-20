@@ -70,6 +70,10 @@ yarn add babel-plugin-styled-components --dev
 
 yarn add redux
 
+## Adicionando React Redux
+
+yarn add react-redux
+
 ## Adicionando Redux-saga
 
 yarn add redux-saga
@@ -77,3 +81,19 @@ yarn add redux-saga
 ## Adicionando jest para testes
 
 yarn add jest
+
+## Adicionando Hooks (para form)
+
+yarn add react-hook-form
+
+## Instalando o Axios
+
+yarn add axios  
+
+## Adicionando o toolkit Redux
+
+yarn add @reduxjs/toolkit   
+
+## Adicionando next-redux-wrapper
+
+yarn add next-redux-wrapper
